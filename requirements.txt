@@ -1,0 +1,4 @@
+azure-devops==5.1.0b1
+python-telegram-bot==13.7
+requests==2.26.0
+giturlparse==0.10.0

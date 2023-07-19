@@ -1,0 +1,1 @@
+docker run -d -p 8443:8443 --env-file ./env_prod --name azprbot ccokee/azprbot:latest
