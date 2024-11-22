@@ -7,8 +7,9 @@ This repository contains a Telegram bot built with Python that integrates with t
 The bot relies on the following dependencies:
 
 - Python 3.9
-- python-telegram-bot 13.7
-- requests 2.26.0
+- python-telegram-bot 13.15
+- Azure devops 6.0.0
+- i18n 0.10.7
 
 You can install these dependencies by running:
 

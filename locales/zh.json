@@ -1,0 +1,12 @@
+{
+    "start_message": "👋 你好！我是你的 Azure DevOps 机器人。使用 /projects 开始。",
+    "access_denied": "🚫 访问被拒绝。无效的令牌。",
+    "admin_only": "🚫 只有群管理员可以访问此命令。",
+    "select_project": "📂 请选择一个项目：",
+    "fetch_projects_failed": "⚠️ 无法从 Azure DevOps 获取项目。",
+    "language_set": "🌍 语言已设置为 {language}。",
+    "unsupported_language": "⚠️ 不支持的语言。可用语言：en, es, zh, ru, pt, it。",
+    "language_usage": "🌍 使用 /language <代码> 设置语言（en, es, zh, ru, pt, it）。",
+    "missing_env_vars": "⚠️ 缺少必要的环境变量。"
+  }
+  

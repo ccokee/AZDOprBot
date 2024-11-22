@@ -1,0 +1,12 @@
+{
+    "start_message": "👋 Ciao! Sono il tuo bot di Azure DevOps. Usa /projects per iniziare.",
+    "access_denied": "🚫 Accesso negato. Token non valido.",
+    "admin_only": "🚫 Solo gli amministratori del gruppo possono accedere a questo comando.",
+    "select_project": "📂 Per favore, seleziona un progetto:",
+    "fetch_projects_failed": "⚠️ Impossibile recuperare i progetti da Azure DevOps.",
+    "language_set": "🌍 La lingua è stata impostata su {language}.",
+    "unsupported_language": "⚠️ Lingua non supportata. Disponibili: en, es, zh, ru, pt, it.",
+    "language_usage": "🌍 Usa /language <codice> per impostare la lingua (en, es, zh, ru, pt, it).",
+    "missing_env_vars": "⚠️ Mancano le variabili di ambiente richieste."
+  }
+  
